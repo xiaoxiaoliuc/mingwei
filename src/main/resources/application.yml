@@ -1,0 +1,6 @@
+server:
+  port: 8081
+beetlsql:
+  enabled: false
+beetl:
+  templatesPath: templates
